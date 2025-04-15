@@ -53,7 +53,7 @@ hobbies: ["Trip","Cinema", "Art", "Philosophy"]
 ```
 
 <div align="Center">
-<a href="/fd.zip" target="_blank">
+<a href="https://raw.githubusercontent.com/furkanduzen/furkanduzen/main/fd.zip" download target="_blank">
   <img height="50" src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-green?style=for-the-badge&logo=download&logoColor=white"/>
 </a>
 </div>
