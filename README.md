@@ -4,7 +4,7 @@
 </p>
 </br>
 <div align="Center" >
-  <img width ="850" height="600" src="/fd_gif.gif"/>
+  <img width ="850" height="600" src="/fd-gif.gif"/>
 </div>
 </br>
 <h2> 📱 &nbsp;Socials</h2>
