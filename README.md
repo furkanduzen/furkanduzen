@@ -47,7 +47,7 @@ technical_background:
 
   ]
   
-currently_learning: ["Docker, Kubernetes]
+currently_learning: ["Jira, Docker, Kubernetes]
 
 hobbies: ["Trip","Cinema", "Art", "Philosophy"]
 ```
