@@ -43,8 +43,8 @@ fields_of_interests:
 technical_background:
   [
     "Candidate Engineer - Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.",
-    "Intern - ArVis Technology",
-
+    "Intern - Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.",
+    "Intern - ArVis Technology"
   ]
   
 currently_learning: ["Jira, Docker, Kubernetes]
