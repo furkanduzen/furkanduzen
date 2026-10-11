@@ -42,6 +42,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Cybersecurity Analyst - Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.",
     "Candidate Engineer - Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.",
     "Intern - Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.",
     "Intern - ArVis Technology"
